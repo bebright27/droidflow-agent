@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "downloadUrl": "https://github.com/bebright27/droidflow-agent/releases/latest/download/agent.zip",
   "changelog": "- Added new UI automation features\n- Fixed memory leaks\n- Improved performance",
   "minElectronVersion": "1.0.0",
